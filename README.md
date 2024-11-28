@@ -1,19 +1,24 @@
-Markdown Cheatsheet<a name="TOP"></a>
-=======================
+# Markdown Cheatsheet<a name="TOP"></a>
 
------
+Name - Phone Myat Ko Ko
+ID - 662115512
 
-# Heading 1 #
+---
+
+# Heading 1
+
     Markup : # Heading 1 #
     -or-
     Markup : ======== (below H1 text)
 
-## Heading 2 ##
+## Heading 2
+
     Markup : ## Heading 2 ##
     -or-
     Markup : ----------- (below H2 text)
 
-### Heading 3 ###
+### Heading 3
+
     Markup : ### Heading 3 ###
 
 Common Text
@@ -30,13 +35,13 @@ _Emphasized Text_
 
     Markup : ~~Strikethrough Text~~
 
-__Strong Text__
+**Strong Text**
 
     Markup : __Strong Text__
     -or-
     Markup : **Strong Text**
 
-___Strong Emphasized Text___
+**_Strong Emphasized Text_**
 
     Markup : ___Strong Emphasized Text___
     -or-
@@ -52,13 +57,13 @@ ___Strong Emphasized Text___
 
 Table, like this one:
 
-First Header | Second Header
--------------|--------------
-Content Cell | Content Cell
-Content Cell | Content Cell
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 
 ```
-First Header | Second Header 
+First Header | Second Header
 -------------|--------------
 Content Cell | Content Cell
 Content Cell | Content Cell
@@ -69,38 +74,39 @@ Content Cell | Content Cell
     Markup : `code()`
 
 ```javascript
-    var specificLanguage_code = 
-    {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "lookedUpItem": {
-                "name": "Test Transmission",
-                "artist": "Kasabian",
-                "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
-            }
-        }
-    }
+var specificLanguage_code = {
+  data: {
+    lookedUpPlatform: 1,
+    query: "Kasabian+Test+Transmission",
+    lookedUpItem: {
+      name: "Test Transmission",
+      artist: "Kasabian",
+      album: "Kasabian",
+      picture: null,
+      link: "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp",
+    },
+  },
+};
 ```
 
     Markup : ```javascript  ```
 
-* Bullet list
-    * Nested bullet list
-        * Sub-Nested bullet etc
-* Bullet list item 2
+- Bullet list
+  - Nested bullet list
+    - Sub-Nested bullet etc
+- Bullet list item 2
+
 1. number list
-    1. nested number list
-        1. sub-nested number list
+   1. nested number list
+      1. sub-nested number list
 2. number list item 2
 
 - [ ] An uncompleted task
 - [x] A Completed Task
 
 > Blockquote
->> Nested blockquote
+>
+> > Nested blockquote
 
 Foldable text:
 
@@ -130,23 +136,22 @@ Hotkey:
 
 Hotkey list:
 
-
-| Key | Symbol |
-| --- | --- |
-| Option | ⌥ |
-| Control | ⌃ |
-| Command | ⌘ |
-| Shift | ⇧ |
-| Caps Lock | ⇪ |
-| Tab | ⇥ |
-| Esc | ⎋ |
-| Power | ⌽ |
-| Return | ↩ |
-| Delete | ⌫ |
-| Up | ↑ |
-| Down | ↓ |
-| Left | ← |
-| Right | → |
+| Key       | Symbol |
+| --------- | ------ |
+| Option    | ⌥      |
+| Control   | ⌃      |
+| Command   | ⌘      |
+| Shift     | ⇧      |
+| Caps Lock | ⇪      |
+| Tab       | ⇥      |
+| Esc       | ⎋      |
+| Power     | ⌽      |
+| Return    | ↩      |
+| Delete    | ⌫      |
+| Up        | ↑      |
+| Down      | ↓      |
+| Left      | ←      |
+| Right     | →      |
 
 <br>
 
