@@ -1,9 +1,11 @@
 # Markdown Cheatsheet<a name="TOP"></a>
-
+    Name : Min Thant Ko
+    ID : 662115510
+-----
+### Collaborated Friends 
     Name - Wai Yan Moe Lwin
     ID   - 662115516
 
------
     Name - Phone Myat Ko Ko
     ID - 662115512
 
@@ -160,6 +162,10 @@ Hotkey list:
 <br>
 
 Emoji:
+
 :exclamation: Use emoji icons to enchace text :+1: Look up emoji codes at
 [emoji-cheat-sheeet](http://emoji-cheat-sheet.com/)
+
+    Markup : code appears between colons :EMOJICODE:
+
 :mask:
